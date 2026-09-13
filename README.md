@@ -1,132 +1,66 @@
 <div align="center">
 
-<!-- 3D Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Keshav%20Kumar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20GenAI%20Developer&descAlignY=55&descSize=18" />
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:16213e&height=300&section=header&text=Keshav%20Kumar&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=45&desc=🤖%20AI%2FML%20Engineer%20%7C%20⚡%20Backend%20Dev%20%7C%20🧠%20GenAI%20Developer&descAlignY=65&descSize=20&descColor=ffffff&stroke=00D9FF&strokeWidth=2" />
 
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=🤖+Building+AI+Agents;🧠+Exploring+LLMs+%26+RAG;⚡+FastAPI+%26+Backend+Dev;🚀+Generative+AI+Developer;🐍+Python+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION - using reliable source -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=🚀+Building+AI+Agents+%26+LLM+Apps;⚡+FastAPI+%7C+Python+%7C+Backend+Systems;🧠+RAG+%7C+LangChain+%7C+OpenAI;🤝+Open+to+Internships+%26+Freelance)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=keshav999e&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/keshav999e?tab=followers">
-  <img src="https://img.shields.io/github/followers/keshav999e?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
+<!-- BADGES ROW -->
+<a href="https://github.com/keshav999e">
+  <img src="https://img.shields.io/badge/-%F0%9F%91%80%20Profile%20Views-blueviolet?style=flat-square&logo=github" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=keshav999e&color=00D9FF&style=flat-square&label=Profile+Views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20GenAI-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Freelance-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20GenAI-blueviolet?style=flat-square&logo=openai&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Loves-Python%20%26%20FastAPI-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </div>
 
----
-
-<!-- 3D Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshav999e/keshav999e/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshav999e/keshav999e/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/keshav999e/keshav999e/output/github-snake.svg" />
-  </picture>
-</div>
+<br/>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 👨‍💻 About Me
 
-```python
-class KeshavKumar:
-    def __init__(self):
-        self.name       = "Keshav Kumar"
-        self.role       = ["AI/ML Engineer", "Backend Dev", "GenAI Dev"]
-        self.languages  = ["Python", "Java", "JavaScript", "TypeScript"]
-        self.frameworks = ["FastAPI", "Flask", "Node.js", "Express"]
-        self.ai_stack   = ["LLMs", "RAG", "AI Agents", "NLP", "Deep Learning"]
-        self.databases  = ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
-        self.cloud      = ["AWS", "Docker", "Linux"]
-        self.currently  = "Building AI-powered applications 🚀"
-        self.open_to    = "Internships • Freelance • Collaboration"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🤝")
-
-me = KeshavKumar()
-me.say_hi()
+```yaml
+Name     : Keshav Kumar
+Role     : AI/ML Engineer | Backend Developer | GenAI Dev
+Language : Python (Primary) • Java • JS • TS
+Stack    : FastAPI • Flask • Node.js • LangChain
+AI Focus : LLMs • RAG • AI Agents • NLP • Deep Learning
+Database : PostgreSQL • MySQL • MongoDB • Redis
+Cloud    : AWS • Docker • Linux
+Status   : 🔥 Building AI-powered products
+Goal     : Production-grade AI Systems
+Open To  : Internships • Freelance • Collabs
 ```
 
 <br clear="right"/>
 
----
-
-## 🚀 What I'm Up To
-
-<table>
-<tr>
-<td>
-
-- 🔭 &nbsp; Currently building **AI-powered applications**
-- 🤖 &nbsp; Deep into **LLMs, RAG & AI Agents**
-- 🐍 &nbsp; Main language: **Python**
-- ⚡ &nbsp; Building **FastAPI** backend systems
-- 🗄️ &nbsp; Working with **PostgreSQL, MySQL & MongoDB**
-
-</td>
-<td>
-
-- 🧠 &nbsp; Exploring **Generative AI & Deep Learning**
-- 🌱 &nbsp; Improving **DSA & System Design**
-- 💻 &nbsp; Open to **Internships & Freelance**
-- 🤝 &nbsp; Love **Open Source Collaboration**
-- ☕ &nbsp; Fuelled by **code & chai**
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
-</p>
-
-### ⚙️ Backend Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
-</p>
-
-### 🤖 AI / ML / GenAI
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-</p>
-
-### ☁️ DevOps, Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark" />
-</p>
+| Category | Technologies |
+|:---:|:---:|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) |
+| **GenAI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logo=robot&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
 
@@ -135,79 +69,67 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshav999e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav999e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keshav999e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav999e&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav999e&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=keshav999e&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=keshav999e&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=keshav999e&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav999e&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=keshav999e&bg_color=0D1117&color=00D9FF&line=6C63FF&point=00D9FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Keshav's%20Contribution%20Graph" />
 </div>
 
 ---
 
-## 🧠 Learning Roadmap
+## 🧠 My Learning Path
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🐍 Python] --> B[⚡ Advanced Python]
-    B --> C[🚀 FastAPI]
-    C --> D[🔗 REST APIs]
-    D --> E[🗄️ PostgreSQL + SQL]
-    E --> F[🤖 Machine Learning]
-    F --> G[✨ Generative AI]
-    G --> H[🧠 LLMs + RAG]
-    H --> I[🕵️ AI Agents]
-    I --> J[🌐 Production AI Systems]
-
-    style A fill:#3776AB,color:#fff
-    style C fill:#009688,color:#fff
-    style F fill:#FF6B6B,color:#fff
-    style G fill:#9B59B6,color:#fff
-    style I fill:#F39C12,color:#fff
-    style J fill:#27AE60,color:#fff
+```
+🐍 Python  ──►  ⚡ FastAPI  ──►  🔗 REST APIs  ──►  🗄️ PostgreSQL
+                                                           │
+                                                           ▼
+🕵️ AI Agents  ◄──  🧠 LLMs + RAG  ◄──  ✨ GenAI  ◄──  🤖 ML/DL
+      │
+      ▼
+🌐 Production AI Systems  🚀
 ```
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshav999e)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavkumar@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/keshavkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshav999e)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavkumar@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/keshavkumar)
+
+<br/>
+
+> *"The best way to predict the future is to build it — with AI."*
 
 </div>
 
 ---
 
-<!-- 3D Footer Wave -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=888888&center=true&vCenter=true&width=500&lines=✨+Thanks+for+visiting+my+profile!;🤝+Let's+connect+and+build+something+amazing!" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&fontColor=00D9FF&animation=twinkling" />
 </div>
