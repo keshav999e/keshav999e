@@ -1,135 +1,256 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a2e,100:16213e&height=300&section=header&text=Keshav%20Kumar&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=45&desc=🤖%20AI%2FML%20Engineer%20%7C%20⚡%20Backend%20Dev%20%7C%20🧠%20GenAI%20Developer&descAlignY=65&descSize=20&descColor=ffffff&stroke=00D9FF&strokeWidth=2" />
+<!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,30:0a0a2e,60:0d0d3d,100:1a0533&height=280&section=header&text=Keshav%20Kumar&fontSize=75&fontColor=00ffff&animation=fadeIn&fontAlignY=42&desc=🤖%20AI%2FML%20Engineer%20%7C%20⚡%20Backend%20Developer%20%7C%20🧠%20GenAI%20Developer&descAlignY=60&descSize=19&descColor=a78bfa&stroke=00ffff&strokeWidth=2" />
 
-<!-- TYPING ANIMATION - using reliable source -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=50&lines=🚀+Building+AI+Agents+%26+LLM+Apps;⚡+FastAPI+%7C+Python+%7C+Backend+Systems;🧠+RAG+%7C+LangChain+%7C+OpenAI;🤝+Open+to+Internships+%26+Freelance)](https://git.io/typing-svg)
+<!-- ══════════════════════ TYPING SVG ══════════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=🤖+Building+AI+Agents+%26+LLM+Applications;⚡+FastAPI+%7C+Python+%7C+Backend+Systems;🧠+LangChain+%7C+RAG+%7C+OpenAI+APIs;🚀+From+Models+to+Production+AI+Systems;🔥+Generative+AI+%7C+NLP+%7C+Deep+Learning" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- BADGES ROW -->
-<a href="https://github.com/keshav999e">
-  <img src="https://img.shields.io/badge/-%F0%9F%91%80%20Profile%20Views-blueviolet?style=flat-square&logo=github" />
+<!-- ══════════════════════ BADGES ══════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=keshav999e&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20GenAI-a78bfa?style=for-the-badge&logo=openai&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-INDIA%20🇮🇳-FF9933?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- ══════════════════════ SOCIAL LINKS ══════════════════════ -->
+<a href="https://linkedin.com/in/keshavkumar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=keshav999e&color=00D9FF&style=flat-square&label=Profile+Views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20GenAI-blueviolet?style=flat-square&logo=openai&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Loves-Python%20%26%20FastAPI-3776AB?style=flat-square&logo=python&logoColor=white" />
+<a href="https://github.com/keshav999e">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:keshavkumar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/keshavkumar">
+  <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+---
+
+<!-- ══════════════════════ SNAKE ANIMATION ══════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/keshav999e/keshav999e/blob/output/github-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/keshav999e/keshav999e/blob/output/github-snake.svg?raw=true" />
+    <img alt="github contribution snake animation" src="https://github.com/keshav999e/keshav999e/blob/output/github-snake-dark.svg?raw=true" />
+  </picture>
+</div>
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
+<!-- ══════════════════════ ABOUT ME ══════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-## 👨‍💻 About Me
+<img align="right" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-```yaml
-Name     : Keshav Kumar
-Role     : AI/ML Engineer | Backend Developer | GenAI Dev
-Language : Python (Primary) • Java • JS • TS
-Stack    : FastAPI • Flask • Node.js • LangChain
-AI Focus : LLMs • RAG • AI Agents • NLP • Deep Learning
-Database : PostgreSQL • MySQL • MongoDB • Redis
-Cloud    : AWS • Docker • Linux
-Status   : 🔥 Building AI-powered products
-Goal     : Production-grade AI Systems
-Open To  : Internships • Freelance • Collabs
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class KeshavKumar:
+    """AI/ML Engineer | Backend Dev | GenAI Developer"""
+
+    name     = "Keshav Kumar"
+    pronouns = "He / Him"
+    location = "India 🇮🇳"
+
+    skills = {
+        "languages"  : ["Python 🐍", "Java", "JS", "TS"],
+        "backend"    : ["FastAPI ⚡", "Flask", "Node.js", "Express"],
+        "ai_ml"      : ["LLMs 🧠", "RAG", "AI Agents", "NLP",
+                        "Deep Learning", "LangChain", "OpenAI"],
+        "databases"  : ["PostgreSQL 🐘", "MySQL", "MongoDB", "Redis"],
+        "devops"     : ["Docker 🐳", "AWS ☁️", "Linux", "Git"],
+    }
+
+    currently  = "Building production-grade AI systems 🚀"
+    learning   = "Advanced DSA + System Design + MLOps"
+    open_to    = ["Internships", "Freelance", "Collaboration"]
+    fun_fact   = "I debug with print() and I'm not sorry 😄"
+
+    def greet(self):
+        return "Hey! Let's build something amazing with AI 🤝"
+
+me = KeshavKumar()
+print(me.greet())
 ```
 
 <br clear="right"/>
 
-<br/>
+---
+
+<!-- ══════════════════════ WHAT I DO ══════════════════════ -->
+## ⚡ What I Do
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+- Building **RAG pipelines** with LangChain & OpenAI
+- Fine-tuning **LLMs** for domain-specific tasks
+- Developing intelligent **AI Agents** with tool use
+- Working with **HuggingFace** models & embeddings
+- NLP, **Deep Learning** & model deployment
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Backend Development
+- Production APIs with **FastAPI** & **Flask**
+- Async backend systems with **Node.js**
+- RESTful & **real-time API** design
+- Database design with **PostgreSQL & MongoDB**
+- Containerized deployments with **Docker & AWS**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- ══════════════════════ TECH STACK ══════════════════════ -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
-|:---:|:---:|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) |
-| **GenAI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white) ![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logo=robot&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark&perline=8" />
+
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&perline=8" />
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8" />
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark&perline=8" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark&perline=8" />
 
 </div>
 
 ---
 
+<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshav999e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav999e&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=keshav999e&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" />
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=keshav999e&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=percentile" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav999e&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff&langs_count=8" />
 
----
+<br/><br/>
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=keshav999e&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=keshav999e&bg_color=0D1117&color=00D9FF&line=6C63FF&point=00D9FF&area_color=6C63FF&area=true&hide_border=true&custom_title=Keshav's%20Contribution%20Graph" />
-</div>
-
----
-
-## 🧠 My Learning Path
-
-<div align="center">
-
-```
-🐍 Python  ──►  ⚡ FastAPI  ──►  🔗 REST APIs  ──►  🗄️ PostgreSQL
-                                                           │
-                                                           ▼
-🕵️ AI Agents  ◄──  🧠 LLMs + RAG  ◄──  ✨ GenAI  ◄──  🤖 ML/DL
-      │
-      ▼
-🌐 Production AI Systems  🚀
-```
+<img width="70%" src="https://streak-stats.demolab.com?user=keshav999e&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00ffff&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=a78bfa&dates=888888&excludeDaysLabel=888888" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<!-- ══════════════════════ TROPHIES ══════════════════════ -->
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshav999e)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavkumar@gmail.com)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/keshavkumar)
+<!-- Primary trophy source -->
+<img src="https://github-profile-trophy.vercel.app/?username=keshav999e&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=6" />
 
 <br/>
 
-> *"The best way to predict the future is to build it — with AI."*
+<!-- Backup: GitHub stats trophy alternative -->
+<img src="https://github-trophies.vercel.app/?username=keshav999e&theme=tokyonight&no-frame=true&margin-w=6&column=6" />
 
 </div>
 
 ---
 
+<!-- ══════════════════════ ACTIVITY GRAPH ══════════════════════ -->
+## 📈 Contribution Activity
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&fontColor=00D9FF&animation=twinkling" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=keshav999e&bg_color=0D1117&color=00ffff&line=a78bfa&point=00ffff&area_color=1a0533&area=true&hide_border=true&custom_title=🔥%20Keshav's%20Contribution%20Graph&title_color=00ffff&radius=6" />
+
+</div>
+
+---
+
+<!-- ══════════════════════ ROADMAP ══════════════════════ -->
+## 🧠 Learning Roadmap
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+
+```
+  ┌─────────────────────────────────────────────────────────┐
+  │                 🗺️  MY JOURNEY SO FAR                   │
+  └─────────────────────────────────────────────────────────┘
+
+  🐍 Python  ──►  ⚡ Advanced Python  ──►  🚀 FastAPI
+
+        ↓                                       ↓
+
+  🤖 Machine Learning          🔗 REST APIs + PostgreSQL
+
+        ↓                                       ↓
+
+  ✨ Generative AI  ◄────────────────────────────
+
+        ↓
+
+  🧠 LLMs + RAG + LangChain  ──►  🕵️ AI Agents
+
+        ↓
+
+  🌐 Production AI Systems  🎯  [CURRENT GOAL]
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════ QUOTE ══════════════════════ -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+</div>
+
+---
+
+<!-- ══════════════════════ FOOTER ══════════════════════ -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
+<br/>
+<em><b>I love connecting with fellow developers!</b> If you want to say <b>hi</b>, I'll be happy to meet you 😊</em>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0a0a2e,100:0D1117&height=130&section=footer&animation=twinkling&fontColor=00ffff" />
+
 </div>
